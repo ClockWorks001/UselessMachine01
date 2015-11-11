@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2015/08/02 22:07:55
+
+BeginCmp
+TimeStamp = /55BDD053;
+Reference = P3_SW1;
+ValeurCmp = CN_1P;
+IdModule  = PAD_1.0X5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BDD062;
+Reference = P4_SW1;
+ValeurCmp = CN_1P;
+IdModule  = PAD_1.0X5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BDC25A;
+Reference = SW1;
+ValeurCmp = SWITCH_INV_6P_2C-2C;
+IdModule  = SW_TOGGLE_6P_PANEL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BDC269;
+Reference = T1_MOTOR1;
+ValeurCmp = CN_2P;
+IdModule  = TERMINAL_2P;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BDCB79;
+Reference = T2_BATTERY1;
+ValeurCmp = CN_2P;
+IdModule  = TERMINAL_2P;
+EndCmp
+
+EndListe
